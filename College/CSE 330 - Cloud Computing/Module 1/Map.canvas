@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4bac30ec5ef56c45","type":"file","file":"College/CSE 330 - Cloud Computing/Module 1/⛅Benefits of the AWS Cloud.md","x":-1200,"y":-703,"width":480,"height":700,"color":"3"},
+		{"id":"221b7b88b25134ff","type":"file","file":"College/CSE 330 - Cloud Computing/Module 1/💻Differences between on-demand delivery and cloud deployments.md","x":-700,"y":-703,"width":740,"height":500},
+		{"id":"022b846c6ec82bb9","type":"file","file":"College/CSE 330 - Cloud Computing/Module 1/⚡Benefits of Amazon Elastic Compute Cloud (Amazon EC2) and Auto Scaling.md","x":60,"y":-703,"width":670,"height":1083},
+		{"id":"1ca64bb5dc8ec48c","x":760,"y":-703,"width":720,"height":1303,"type":"file","file":"College/CSE 330 - Cloud Computing/Module 1/🤔Overview of Elastic Load Balancing, Amazon Simple Notification Service (Amazon SNS), and Amazon Simple Queue Services (Amazon SQS).md"}
+	],
+	"edges":[]
+}
